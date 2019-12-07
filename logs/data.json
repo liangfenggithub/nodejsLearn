@@ -1,0 +1,1517 @@
+{
+  "min_position": 8,
+  "has_more_items": false,
+  "items_html": "Bus",
+  "new_latent_count": 8,
+  "data": {
+    "length": 21,
+    "text": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  "numericalArray": [
+    28,
+    27,
+    31,
+    31,
+    25,
+    20,
+    31,
+    29,
+    33,
+    32,
+    32,
+    26,
+    23,
+    20,
+    20,
+    27,
+    25,
+    31,
+    25,
+    23,
+    23,
+    33,
+    24,
+    30,
+    23,
+    20,
+    29,
+    31,
+    29,
+    27,
+    28,
+    27,
+    28,
+    27,
+    33,
+    28,
+    20,
+    32,
+    26,
+    27,
+    26,
+    25,
+    23,
+    26,
+    30,
+    28,
+    26,
+    30,
+    26,
+    26,
+    23,
+    29,
+    20,
+    20,
+    24,
+    26,
+    27,
+    33,
+    33,
+    30,
+    28,
+    32,
+    23,
+    24,
+    27,
+    33,
+    24,
+    27,
+    24,
+    25,
+    31,
+    24,
+    31,
+    23,
+    32,
+    30,
+    27,
+    20,
+    32,
+    27,
+    29,
+    25,
+    32,
+    25,
+    24,
+    29,
+    27,
+    28,
+    31,
+    27,
+    33,
+    31,
+    20,
+    25,
+    23,
+    25,
+    27,
+    30,
+    33,
+    25,
+    26,
+    27,
+    33,
+    20,
+    27,
+    25,
+    29,
+    26,
+    33,
+    27,
+    23,
+    24,
+    28,
+    33,
+    32,
+    23,
+    23,
+    20,
+    23,
+    30,
+    26,
+    26,
+    31,
+    20,
+    25,
+    29,
+    27,
+    33,
+    33,
+    28,
+    28,
+    31,
+    20,
+    20,
+    28,
+    27,
+    29,
+    24,
+    32,
+    28,
+    30,
+    30,
+    28,
+    27,
+    25,
+    33,
+    27,
+    31,
+    31,
+    23,
+    32,
+    32,
+    24,
+    29,
+    20,
+    33,
+    33,
+    31,
+    20,
+    30,
+    20,
+    31,
+    20,
+    27,
+    31,
+    26,
+    24,
+    20,
+    25,
+    33,
+    33,
+    29,
+    27,
+    24,
+    32,
+    30,
+    30,
+    20,
+    25,
+    32,
+    27,
+    20,
+    30,
+    33,
+    23,
+    31,
+    30,
+    20,
+    27,
+    28,
+    24,
+    28,
+    23,
+    20,
+    23,
+    26,
+    26,
+    29,
+    20,
+    28
+  ],
+  "StringArray": [
+    "Oxygen",
+    "Nitrogen",
+    "Nitrogen",
+    "Oxygen",
+    "Nitrogen",
+    "Nitrogen",
+    "Nitrogen",
+    "Carbon",
+    "Oxygen",
+    "Oxygen",
+    "Carbon",
+    "Nitrogen",
+    "Carbon",
+    "Carbon",
+    "Nitrogen",
+    "Oxygen",
+    "Nitrogen",
+    "Carbon",
+    "Nitrogen",
+    "Carbon",
+    "Nitrogen",
+    "Nitrogen",
+    "Carbon",
+    "Carbon",
+    "Nitrogen",
+    "Nitrogen",
+    "Nitrogen",
+    "Oxygen",
+    "Carbon",
+    "Oxygen",
+    "Carbon",
+    "Carbon",
+    "Oxygen",
+    "Oxygen",
+    "Nitrogen",
+    "Carbon",
+    "Nitrogen",
+    "Oxygen",
+    "Carbon",
+    "Nitrogen",
+    "Oxygen",
+    "Oxygen",
+    "Nitrogen",
+    "Oxygen",
+    "Oxygen",
+    "Carbon",
+    "Carbon",
+    "Oxygen",
+    "Carbon",
+    "Nitrogen",
+    "Nitrogen",
+    "Carbon",
+    "Carbon",
+    "Nitrogen",
+    "Nitrogen",
+    "Oxygen",
+    "Nitrogen",
+    "Oxygen",
+    "Carbon",
+    "Carbon",
+    "Nitrogen",
+    "Oxygen",
+    "Nitrogen",
+    "Nitrogen",
+    "Nitrogen",
+    "Oxygen",
+    "Oxygen",
+    "Carbon",
+    "Carbon",
+    "Carbon",
+    "Nitrogen",
+    "Oxygen",
+    "Oxygen",
+    "Carbon",
+    "Carbon",
+    "Carbon",
+    "Nitrogen",
+    "Carbon",
+    "Nitrogen",
+    "Carbon",
+    "Nitrogen",
+    "Oxygen",
+    "Nitrogen",
+    "Oxygen",
+    "Carbon",
+    "Oxygen",
+    "Carbon",
+    "Nitrogen",
+    "Carbon",
+    "Carbon",
+    "Oxygen",
+    "Carbon",
+    "Carbon",
+    "Carbon",
+    "Carbon",
+    "Carbon",
+    "Carbon",
+    "Nitrogen",
+    "Oxygen",
+    "Carbon"
+  ],
+  "multipleTypesArray": true,
+  "objArray": [
+    {
+      "class": "lower",
+      "age": 9
+    },
+    {
+      "class": "lower",
+      "age": 2
+    },
+    {
+      "class": "middle",
+      "age": 7
+    },
+    {
+      "class": "upper",
+      "age": 6
+    },
+    {
+      "class": "lower",
+      "age": 9
+    },
+    {
+      "class": "upper",
+      "age": 7
+    },
+    {
+      "class": "middle",
+      "age": 8
+    },
+    {
+      "class": "middle",
+      "age": 8
+    },
+    {
+      "class": "lower",
+      "age": 7
+    },
+    {
+      "class": "upper",
+      "age": 9
+    },
+    {
+      "class": "lower",
+      "age": 7
+    },
+    {
+      "class": "lower",
+      "age": 2
+    },
+    {
+      "class": "upper",
+      "age": 8
+    },
+    {
+      "class": "middle",
+      "age": 5
+    },
+    {
+      "class": "upper",
+      "age": 7
+    },
+    {
+      "class": "middle",
+      "age": 6
+    },
+    {
+      "class": "middle",
+      "age": 2
+    },
+    {
+      "class": "upper",
+      "age": 4
+    },
+    {
+      "class": "upper",
+      "age": 8
+    },
+    {
+      "class": "middle",
+      "age": 2
+    },
+    {
+      "class": "middle",
+      "age": 6
+    },
+    {
+      "class": "middle",
+      "age": 6
+    },
+    {
+      "class": "middle",
+      "age": 8
+    },
+    {
+      "class": "upper",
+      "age": 6
+    },
+    {
+      "class": "lower",
+      "age": 3
+    },
+    {
+      "class": "lower",
+      "age": 4
+    },
+    {
+      "class": "middle",
+      "age": 9
+    },
+    {
+      "class": "upper",
+      "age": 0
+    },
+    {
+      "class": "lower",
+      "age": 2
+    },
+    {
+      "class": "middle",
+      "age": 7
+    },
+    {
+      "class": "middle",
+      "age": 5
+    },
+    {
+      "class": "upper",
+      "age": 7
+    },
+    {
+      "class": "upper",
+      "age": 2
+    },
+    {
+      "class": "upper",
+      "age": 9
+    },
+    {
+      "class": "upper",
+      "age": 4
+    },
+    {
+      "class": "middle",
+      "age": 6
+    },
+    {
+      "class": "middle",
+      "age": 2
+    },
+    {
+      "class": "upper",
+      "age": 9
+    },
+    {
+      "class": "lower",
+      "age": 9
+    },
+    {
+      "class": "upper",
+      "age": 0
+    },
+    {
+      "class": "middle",
+      "age": 0
+    },
+    {
+      "class": "middle",
+      "age": 5
+    },
+    {
+      "class": "middle",
+      "age": 9
+    },
+    {
+      "class": "middle",
+      "age": 6
+    },
+    {
+      "class": "upper",
+      "age": 0
+    },
+    {
+      "class": "middle",
+      "age": 9
+    },
+    {
+      "class": "middle",
+      "age": 9
+    },
+    {
+      "class": "lower",
+      "age": 1
+    },
+    {
+      "class": "middle",
+      "age": 9
+    },
+    {
+      "class": "upper",
+      "age": 4
+    },
+    {
+      "class": "middle",
+      "age": 4
+    },
+    {
+      "class": "upper",
+      "age": 8
+    },
+    {
+      "class": "lower",
+      "age": 7
+    },
+    {
+      "class": "upper",
+      "age": 9
+    },
+    {
+      "class": "upper",
+      "age": 8
+    },
+    {
+      "class": "upper",
+      "age": 3
+    },
+    {
+      "class": "upper",
+      "age": 7
+    },
+    {
+      "class": "lower",
+      "age": 3
+    },
+    {
+      "class": "upper",
+      "age": 8
+    },
+    {
+      "class": "upper",
+      "age": 9
+    },
+    {
+      "class": "middle",
+      "age": 4
+    },
+    {
+      "class": "upper",
+      "age": 3
+    },
+    {
+      "class": "upper",
+      "age": 0
+    },
+    {
+      "class": "upper",
+      "age": 1
+    },
+    {
+      "class": "lower",
+      "age": 3
+    },
+    {
+      "class": "middle",
+      "age": 2
+    },
+    {
+      "class": "middle",
+      "age": 5
+    },
+    {
+      "class": "lower",
+      "age": 2
+    },
+    {
+      "class": "upper",
+      "age": 5
+    },
+    {
+      "class": "middle",
+      "age": 8
+    },
+    {
+      "class": "upper",
+      "age": 9
+    },
+    {
+      "class": "lower",
+      "age": 6
+    },
+    {
+      "class": "lower",
+      "age": 2
+    },
+    {
+      "class": "upper",
+      "age": 3
+    },
+    {
+      "class": "middle",
+      "age": 8
+    },
+    {
+      "class": "middle",
+      "age": 7
+    },
+    {
+      "class": "upper",
+      "age": 1
+    },
+    {
+      "class": "middle",
+      "age": 8
+    },
+    {
+      "class": "upper",
+      "age": 9
+    },
+    {
+      "class": "lower",
+      "age": 8
+    },
+    {
+      "class": "upper",
+      "age": 3
+    },
+    {
+      "class": "middle",
+      "age": 3
+    },
+    {
+      "class": "middle",
+      "age": 9
+    },
+    {
+      "class": "upper",
+      "age": 4
+    },
+    {
+      "class": "middle",
+      "age": 8
+    },
+    {
+      "class": "lower",
+      "age": 8
+    },
+    {
+      "class": "upper",
+      "age": 4
+    },
+    {
+      "class": "upper",
+      "age": 2
+    },
+    {
+      "class": "upper",
+      "age": 9
+    },
+    {
+      "class": "upper",
+      "age": 5
+    },
+    {
+      "class": "middle",
+      "age": 7
+    },
+    {
+      "class": "middle",
+      "age": 1
+    },
+    {
+      "class": "lower",
+      "age": 7
+    },
+    {
+      "class": "lower",
+      "age": 3
+    },
+    {
+      "class": "middle",
+      "age": 8
+    },
+    {
+      "class": "upper",
+      "age": 0
+    },
+    {
+      "class": "middle",
+      "age": 5
+    },
+    {
+      "class": "lower",
+      "age": 3
+    },
+    {
+      "class": "upper",
+      "age": 5
+    },
+    {
+      "class": "middle",
+      "age": 4
+    },
+    {
+      "class": "lower",
+      "age": 1
+    },
+    {
+      "class": "lower",
+      "age": 4
+    },
+    {
+      "class": "upper",
+      "age": 1
+    },
+    {
+      "class": "lower",
+      "age": 5
+    },
+    {
+      "class": "lower",
+      "age": 0
+    },
+    {
+      "class": "middle",
+      "age": 1
+    },
+    {
+      "class": "upper",
+      "age": 4
+    },
+    {
+      "class": "lower",
+      "age": 9
+    },
+    {
+      "class": "upper",
+      "age": 6
+    },
+    {
+      "class": "upper",
+      "age": 3
+    },
+    {
+      "class": "lower",
+      "age": 6
+    },
+    {
+      "class": "lower",
+      "age": 9
+    },
+    {
+      "class": "lower",
+      "age": 1
+    },
+    {
+      "class": "upper",
+      "age": 8
+    },
+    {
+      "class": "middle",
+      "age": 9
+    },
+    {
+      "class": "upper",
+      "age": 2
+    },
+    {
+      "class": "upper",
+      "age": 4
+    },
+    {
+      "class": "middle",
+      "age": 5
+    },
+    {
+      "class": "lower",
+      "age": 2
+    },
+    {
+      "class": "upper",
+      "age": 2
+    },
+    {
+      "class": "upper",
+      "age": 5
+    },
+    {
+      "class": "upper",
+      "age": 5
+    },
+    {
+      "class": "lower",
+      "age": 3
+    },
+    {
+      "class": "upper",
+      "age": 9
+    },
+    {
+      "class": "upper",
+      "age": 9
+    },
+    {
+      "class": "lower",
+      "age": 7
+    },
+    {
+      "class": "lower",
+      "age": 4
+    },
+    {
+      "class": "lower",
+      "age": 3
+    },
+    {
+      "class": "lower",
+      "age": 9
+    },
+    {
+      "class": "lower",
+      "age": 9
+    },
+    {
+      "class": "lower",
+      "age": 2
+    },
+    {
+      "class": "upper",
+      "age": 6
+    },
+    {
+      "class": "middle",
+      "age": 5
+    },
+    {
+      "class": "lower",
+      "age": 6
+    },
+    {
+      "class": "lower",
+      "age": 6
+    },
+    {
+      "class": "lower",
+      "age": 0
+    },
+    {
+      "class": "upper",
+      "age": 1
+    },
+    {
+      "class": "upper",
+      "age": 1
+    },
+    {
+      "class": "upper",
+      "age": 3
+    },
+    {
+      "class": "upper",
+      "age": 5
+    },
+    {
+      "class": "lower",
+      "age": 2
+    },
+    {
+      "class": "middle",
+      "age": 6
+    },
+    {
+      "class": "lower",
+      "age": 0
+    },
+    {
+      "class": "middle",
+      "age": 4
+    },
+    {
+      "class": "middle",
+      "age": 1
+    },
+    {
+      "class": "lower",
+      "age": 8
+    },
+    {
+      "class": "lower",
+      "age": 4
+    },
+    {
+      "class": "lower",
+      "age": 8
+    },
+    {
+      "class": "lower",
+      "age": 3
+    },
+    {
+      "class": "middle",
+      "age": 5
+    },
+    {
+      "class": "upper",
+      "age": 2
+    },
+    {
+      "class": "middle",
+      "age": 0
+    },
+    {
+      "class": "upper",
+      "age": 5
+    },
+    {
+      "class": "middle",
+      "age": 9
+    },
+    {
+      "class": "lower",
+      "age": 7
+    },
+    {
+      "class": "upper",
+      "age": 5
+    },
+    {
+      "class": "middle",
+      "age": 1
+    },
+    {
+      "class": "lower",
+      "age": 4
+    },
+    {
+      "class": "upper",
+      "age": 6
+    },
+    {
+      "class": "middle",
+      "age": 8
+    },
+    {
+      "class": "middle",
+      "age": 2
+    },
+    {
+      "class": "lower",
+      "age": 6
+    },
+    {
+      "class": "lower",
+      "age": 5
+    },
+    {
+      "class": "upper",
+      "age": 7
+    },
+    {
+      "class": "lower",
+      "age": 5
+    },
+    {
+      "class": "lower",
+      "age": 2
+    },
+    {
+      "class": "upper",
+      "age": 6
+    },
+    {
+      "class": "middle",
+      "age": 0
+    },
+    {
+      "class": "middle",
+      "age": 9
+    },
+    {
+      "class": "middle",
+      "age": 6
+    },
+    {
+      "class": "lower",
+      "age": 8
+    },
+    {
+      "class": "middle",
+      "age": 8
+    },
+    {
+      "class": "lower",
+      "age": 7
+    },
+    {
+      "class": "upper",
+      "age": 8
+    },
+    {
+      "class": "lower",
+      "age": 3
+    },
+    {
+      "class": "middle",
+      "age": 1
+    },
+    {
+      "class": "lower",
+      "age": 5
+    },
+    {
+      "class": "lower",
+      "age": 4
+    },
+    {
+      "class": "lower",
+      "age": 0
+    },
+    {
+      "class": "middle",
+      "age": 4
+    },
+    {
+      "class": "lower",
+      "age": 5
+    },
+    {
+      "class": "middle",
+      "age": 6
+    },
+    {
+      "class": "middle",
+      "age": 1
+    },
+    {
+      "class": "upper",
+      "age": 5
+    },
+    {
+      "class": "middle",
+      "age": 9
+    },
+    {
+      "class": "lower",
+      "age": 4
+    },
+    {
+      "class": "middle",
+      "age": 7
+    },
+    {
+      "class": "middle",
+      "age": 8
+    },
+    {
+      "class": "lower",
+      "age": 3
+    },
+    {
+      "class": "lower",
+      "age": 9
+    },
+    {
+      "class": "upper",
+      "age": 4
+    },
+    {
+      "class": "upper",
+      "age": 2
+    },
+    {
+      "class": "upper",
+      "age": 1
+    },
+    {
+      "class": "middle",
+      "age": 9
+    },
+    {
+      "class": "middle",
+      "age": 5
+    },
+    {
+      "class": "upper",
+      "age": 0
+    },
+    {
+      "class": "upper",
+      "age": 4
+    },
+    {
+      "class": "upper",
+      "age": 3
+    },
+    {
+      "class": "lower",
+      "age": 0
+    },
+    {
+      "class": "upper",
+      "age": 1
+    },
+    {
+      "class": "lower",
+      "age": 4
+    },
+    {
+      "class": "lower",
+      "age": 8
+    },
+    {
+      "class": "middle",
+      "age": 2
+    },
+    {
+      "class": "lower",
+      "age": 9
+    },
+    {
+      "class": "lower",
+      "age": 3
+    },
+    {
+      "class": "lower",
+      "age": 3
+    },
+    {
+      "class": "upper",
+      "age": 8
+    },
+    {
+      "class": "lower",
+      "age": 8
+    },
+    {
+      "class": "middle",
+      "age": 4
+    },
+    {
+      "class": "upper",
+      "age": 7
+    },
+    {
+      "class": "middle",
+      "age": 4
+    },
+    {
+      "class": "upper",
+      "age": 0
+    },
+    {
+      "class": "middle",
+      "age": 5
+    },
+    {
+      "class": "upper",
+      "age": 3
+    },
+    {
+      "class": "middle",
+      "age": 1
+    },
+    {
+      "class": "lower",
+      "age": 5
+    },
+    {
+      "class": "lower",
+      "age": 2
+    },
+    {
+      "class": "lower",
+      "age": 9
+    },
+    {
+      "class": "middle",
+      "age": 3
+    },
+    {
+      "class": "middle",
+      "age": 4
+    },
+    {
+      "class": "lower",
+      "age": 5
+    },
+    {
+      "class": "lower",
+      "age": 5
+    },
+    {
+      "class": "middle",
+      "age": 4
+    },
+    {
+      "class": "lower",
+      "age": 1
+    },
+    {
+      "class": "lower",
+      "age": 4
+    },
+    {
+      "class": "upper",
+      "age": 9
+    },
+    {
+      "class": "middle",
+      "age": 5
+    },
+    {
+      "class": "upper",
+      "age": 9
+    },
+    {
+      "class": "upper",
+      "age": 8
+    },
+    {
+      "class": "upper",
+      "age": 6
+    },
+    {
+      "class": "lower",
+      "age": 7
+    },
+    {
+      "class": "middle",
+      "age": 6
+    },
+    {
+      "class": "lower",
+      "age": 4
+    },
+    {
+      "class": "middle",
+      "age": 7
+    },
+    {
+      "class": "lower",
+      "age": 1
+    },
+    {
+      "class": "middle",
+      "age": 8
+    },
+    {
+      "class": "lower",
+      "age": 9
+    },
+    {
+      "class": "upper",
+      "age": 2
+    },
+    {
+      "class": "lower",
+      "age": 2
+    },
+    {
+      "class": "middle",
+      "age": 9
+    },
+    {
+      "class": "middle",
+      "age": 6
+    },
+    {
+      "class": "middle",
+      "age": 0
+    },
+    {
+      "class": "lower",
+      "age": 0
+    },
+    {
+      "class": "middle",
+      "age": 9
+    },
+    {
+      "class": "middle",
+      "age": 7
+    },
+    {
+      "class": "middle",
+      "age": 3
+    },
+    {
+      "class": "middle",
+      "age": 4
+    },
+    {
+      "class": "middle",
+      "age": 0
+    },
+    {
+      "class": "lower",
+      "age": 9
+    },
+    {
+      "class": "upper",
+      "age": 1
+    },
+    {
+      "class": "lower",
+      "age": 9
+    },
+    {
+      "class": "upper",
+      "age": 2
+    },
+    {
+      "class": "lower",
+      "age": 9
+    },
+    {
+      "class": "middle",
+      "age": 7
+    },
+    {
+      "class": "upper",
+      "age": 6
+    },
+    {
+      "class": "upper",
+      "age": 7
+    },
+    {
+      "class": "middle",
+      "age": 7
+    },
+    {
+      "class": "middle",
+      "age": 3
+    },
+    {
+      "class": "lower",
+      "age": 6
+    },
+    {
+      "class": "lower",
+      "age": 7
+    },
+    {
+      "class": "upper",
+      "age": 8
+    },
+    {
+      "class": "upper",
+      "age": 9
+    },
+    {
+      "class": "lower",
+      "age": 0
+    },
+    {
+      "class": "lower",
+      "age": 3
+    },
+    {
+      "class": "upper",
+      "age": 9
+    },
+    {
+      "class": "middle",
+      "age": 2
+    },
+    {
+      "class": "middle",
+      "age": 1
+    },
+    {
+      "class": "lower",
+      "age": 3
+    },
+    {
+      "class": "upper",
+      "age": 6
+    },
+    {
+      "class": "upper",
+      "age": 2
+    },
+    {
+      "class": "lower",
+      "age": 0
+    },
+    {
+      "class": "middle",
+      "age": 3
+    },
+    {
+      "class": "middle",
+      "age": 1
+    },
+    {
+      "class": "lower",
+      "age": 2
+    },
+    {
+      "class": "lower",
+      "age": 6
+    },
+    {
+      "class": "upper",
+      "age": 2
+    },
+    {
+      "class": "upper",
+      "age": 3
+    },
+    {
+      "class": "middle",
+      "age": 8
+    },
+    {
+      "class": "upper",
+      "age": 0
+    },
+    {
+      "class": "middle",
+      "age": 9
+    },
+    {
+      "class": "upper",
+      "age": 1
+    },
+    {
+      "class": "lower",
+      "age": 9
+    },
+    {
+      "class": "lower",
+      "age": 0
+    },
+    {
+      "class": "middle",
+      "age": 0
+    },
+    {
+      "class": "upper",
+      "age": 2
+    },
+    {
+      "class": "middle",
+      "age": 4
+    },
+    {
+      "class": "middle",
+      "age": 1
+    },
+    {
+      "class": "middle",
+      "age": 7
+    },
+    {
+      "class": "lower",
+      "age": 8
+    },
+    {
+      "class": "upper",
+      "age": 5
+    },
+    {
+      "class": "lower",
+      "age": 4
+    },
+    {
+      "class": "lower",
+      "age": 4
+    },
+    {
+      "class": "upper",
+      "age": 5
+    },
+    {
+      "class": "lower",
+      "age": 5
+    },
+    {
+      "class": "lower",
+      "age": 1
+    },
+    {
+      "class": "upper",
+      "age": 5
+    },
+    {
+      "class": "lower",
+      "age": 2
+    },
+    {
+      "class": "lower",
+      "age": 2
+    },
+    {
+      "class": "middle",
+      "age": 3
+    },
+    {
+      "class": "upper",
+      "age": 9
+    }
+  ]
+}
