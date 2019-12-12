@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>登录</title>
+  </head>
+
+  <body>
+    <h1>这是一个ejs后台模板引擎测试程序</h1>
+    <!-- ejs代码 -->
+    <h2>
+      <!-- 这里的msg是变量，是由nodejs传递进来的 -->
+      <%=msg%>
+    </h2>
+    <br>
+    <hr>
+    <ul>
+      <p>
+        这里是一个列表渲染
+      </p>
+      <% for(var i = 0; i< list.length; i++){ %>
+      <!-- 变量输出 -->
+      <li> <%= list[i] %> </li>
+      <% } %>
+    </ul>
+  </body>
+
+</html>
